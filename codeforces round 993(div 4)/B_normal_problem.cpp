@@ -1,4 +1,4 @@
-// A. EASY PROBLEM
+// B. NORMAL PROBLEM
 
 #include<bits/stdc++.h>
 using namespace std;
